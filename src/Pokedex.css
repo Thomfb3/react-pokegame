@@ -1,0 +1,17 @@
+.Pokedex {
+    margin: auto;
+    width: 1200px;
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.Pokedex-header {
+    color: #b9b9b9;
+}
+
+.Pokedex-winner-msg {
+    color: #00b929;
+}
